@@ -24,9 +24,18 @@ a {
 }
 
 nav {
+<<<<<<< HEAD
   background: #f6f5f2;
   background-image: url(./peak.jpg);
   box-shadow: 0 5px 15px powderblue;
+=======
+  background: #192655;
+  box-shadow: 0 5px 15px #222831;
+
+  background-image: url(./black\ \(Custom\).jpg);
+
+
+>>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
 }
 
 .menu a {
@@ -73,7 +82,15 @@ h1 {
 
 i {
   font-size: 3rem;
+<<<<<<< HEAD
   color: #1e8cfa;
+=======
+
+  color: whitesmoke;
+
+  color: navy;
+
+>>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
 }
 
 
@@ -103,7 +120,15 @@ div {
   color: #fff;
   text-align: center;
   border-radius: 5px;
+<<<<<<< HEAD
   box-shadow: 0 5px 15px powderblue;
+=======
+  box-shadow: 0 5px 15px #35374b;
+
+  background-image: url(./black\ \(Custom\).jpg);
+
+
+>>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
 }
 
 .counter-div > * {
@@ -125,13 +150,46 @@ hr {
   margin: 0 20px;
   font-size: 1.5rem;
   color: #fff;
+
+  font-weight: bold;
+  border: 1.5px solid white;
+
   font-weight: 700;
+<<<<<<< HEAD
   border: none;
+=======
+  border: 1px solid white;
+
+>>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
   outline: none;
   border-radius: 3px;
   cursor: pointer;
   box-shadow: 1px 1px 1px rgb(0, 55, 73);
 }
+
+
+/* button.subtract {
+  background-color: aliceblue;
+} */
+
+button.reset {
+  background: transparent;
+  /* background-color: whitesmoke; */
+  color: whitesmoke;
+}
+
+.buttons button:hover{
+  color: #28282B;
+  background: whitesmoke;
+  font-weight: bold;
+  padding-left: 0.5rem;
+}
+i:hover{
+  color:#28282B;
+  background: whitesmoke;
+  padding-left: 0.5rem;
+}
+/* button.add {
 
 button.subtract {
   background-color: #d18f8f;
@@ -145,8 +203,13 @@ button.reset {
 }
 
 button.add {
+<<<<<<< HEAD
   background-color: #ca8787;
   border: 1px solid white;
+=======
+
+  background-color: #583d22;
+>>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
 }
 
 .uphand-styles {
@@ -154,8 +217,15 @@ button.add {
 }
 
 .downhand-styles {
+<<<<<<< HEAD
   color: #cf1c67;
+=======
+  color: orangered;
+} */
+
+>>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
 }
+
 
 @media (min-width: 800px) {
   .nav-main {
