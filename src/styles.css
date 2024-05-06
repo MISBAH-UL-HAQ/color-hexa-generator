@@ -26,6 +26,7 @@ a {
 nav {
   background: #192655;
   box-shadow: 0 5px 15px #222831;
+  background-image: url(./black\ \(Custom\).jpg);
 }
 
 .menu a {
@@ -72,8 +73,10 @@ h1 {
 
 i {
   font-size: 3rem;
-  color: navy;
+  color: whitesmoke;
 }
+
+
 
 div {
   display: flex;
@@ -101,6 +104,7 @@ div {
   text-align: center;
   border-radius: 5px;
   box-shadow: 0 5px 15px #35374b;
+  background-image: url(./black\ \(Custom\).jpg);
 }
 
 .counter-div > * {
@@ -122,24 +126,36 @@ hr {
   margin: 0 20px;
   font-size: 1.5rem;
   color: #fff;
-  font-weight: 700;
-  border: 1px solid white;
+  font-weight: bold;
+  border: 1.5px solid white;
   outline: none;
   border-radius: 3px;
   cursor: pointer;
   box-shadow: 1px 1px 1px rgb(0, 55, 73);
 }
 
-button.subtract {
+/* button.subtract {
   background-color: aliceblue;
-}
+} */
 
 button.reset {
-  background-color: powderblue;
-  color: navy;
+  background: transparent;
+  /* background-color: whitesmoke; */
+  color: whitesmoke;
 }
 
-button.add {
+.buttons button:hover{
+  color: #28282B;
+  background: whitesmoke;
+  font-weight: bold;
+  padding-left: 0.5rem;
+}
+i:hover{
+  color:#28282B;
+  background: whitesmoke;
+  padding-left: 0.5rem;
+}
+/* button.add {
   background-color: #583d22;
 }
 
@@ -149,7 +165,7 @@ button.add {
 
 .downhand-styles {
   color: orangered;
-}
+} */
 
 @media (min-width: 800px) {
   .nav-main {
