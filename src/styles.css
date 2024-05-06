@@ -35,7 +35,10 @@ nav {
   background-image: url(./black\ \(Custom\).jpg);
 
 
+<<<<<<< HEAD
 >>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
+=======
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
 }
 
 .menu a {
@@ -83,14 +86,20 @@ h1 {
 i {
   font-size: 3rem;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: #1e8cfa;
 =======
+=======
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
 
   color: whitesmoke;
 
   color: navy;
 
+<<<<<<< HEAD
 >>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
+=======
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
 }
 
 
@@ -128,7 +137,10 @@ div {
   background-image: url(./black\ \(Custom\).jpg);
 
 
+<<<<<<< HEAD
 >>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
+=======
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
 }
 
 .counter-div > * {
@@ -156,11 +168,16 @@ hr {
 
   font-weight: 700;
 <<<<<<< HEAD
+<<<<<<< HEAD
   border: none;
 =======
   border: 1px solid white;
 
 >>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
+=======
+  border: 1px solid white;
+
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
   outline: none;
   border-radius: 3px;
   cursor: pointer;
@@ -192,6 +209,7 @@ i:hover{
 /* button.add {
 
 button.subtract {
+<<<<<<< HEAD
   background-color: #d18f8f;
   border: 1px solid white;
 }
@@ -207,6 +225,17 @@ button.add {
   background-color: #ca8787;
   border: 1px solid white;
 =======
+=======
+  background-color: aliceblue;
+}
+
+button.reset {
+  background-color: aliceblue;
+  color: navy;
+}
+
+button.add {
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
 
   background-color: #583d22;
 >>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
@@ -223,7 +252,10 @@ button.add {
   color: orangered;
 } */
 
+<<<<<<< HEAD
 >>>>>>> 883523171b92988d76ac1c7f6d2ccc4ece8a1b5c
+=======
+>>>>>>> 452f33416fd69e642d74c86c18bb2d194096aac2
 }
 
 
