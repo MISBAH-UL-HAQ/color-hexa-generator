@@ -67,7 +67,8 @@ h1 {
 
 .i-header {
   font-size: 3rem;
-  color: whitesmoke;
+  color: #1e8cfa;
+  padding: 20px;
 }
 
 i {
@@ -98,7 +99,7 @@ div {
   padding: 1rem;
   background-color: #ca8787;
   background-image: url("./peak.jpg");
-  color: #fff;
+  color: #1e8cfa;
   text-align: center;
   border-radius: 5px;
   box-shadow: 0 5px 15px powderblue;
@@ -115,7 +116,7 @@ div {
 }
 
 hr {
-  border-color: #8E92BC;
+  border-color: #8e92bc;
 }
 
 .buttons button {
@@ -139,7 +140,7 @@ button.subtract {
 button.reset {
   background-color: #ca8787;
   color: #1e8cfa;
-  border: 1px solid white ;
+  border: 1px solid white;
 }
 
 button.add {
